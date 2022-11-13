@@ -1,3 +1,4 @@
+*deployed on github pages*
 # Ugege Daniel Digital Resume
 
 <!-- A simple website to showcase my resume in a digital platform [resume](./assets/resume.pdf) -->
